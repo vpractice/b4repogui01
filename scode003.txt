@@ -1,2 +1,4 @@
 welcome to smartgit GUI
 
+echo "lines added"
+
