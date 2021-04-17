@@ -1,6 +1,6 @@
 welcome to smartgit GUI
 
-echo "lines added"
+echo "lines added in master branch"
 
 echo "lines added in master"
 
