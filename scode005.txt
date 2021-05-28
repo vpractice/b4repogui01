@@ -1,1 +1,2 @@
 echo "new ffiles added to from local repo"
+echo "new ffiles added to from remote repo"
